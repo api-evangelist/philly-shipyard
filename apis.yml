@@ -1,0 +1,49 @@
+aid: philly-shipyard
+name: Philly Shipyard
+description: >-
+  Philly Shipyard (now Hanwha Philly Shipyard, Inc.) is a commercial
+  shipbuilder based at the former Philadelphia Naval Shipyard, constructing
+  Jones Act-compliant container ships, product and Aframax tankers, and
+  National Security Multi-Mission Vessels (NSMVs) for the U.S. Maritime
+  Administration and state maritime academies. In December 2024, Hanwha
+  Systems and Hanwha Ocean (subsidiaries of South Korea's Hanwha Group)
+  completed the acquisition of Philly Shipyard for approximately $100M,
+  rebranding the operation as Hanwha Philly Shipyard Inc. (HPSI). No public
+  developer APIs have been identified at this time.
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/philly-shipyard/refs/heads/main/apis.yml
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Defense
+  - Maritime
+  - Manufacturing
+  - Shipbuilding
+  - Jones Act
+created: '2026-05-03'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://hanwhaphillyshipyard.com/
+  - type: LegacyWebsite
+    url: https://phillyshipyard.com/
+  - type: Newsroom
+    url: https://hanwhaphillyshipyard.com/press-releases/
+  - type: Careers
+    url: https://hanwhaphillyshipyard.com/join-our-team/
+  - type: Contact
+    url: https://hanwhaphillyshipyard.com/contact-us/
+  - type: ParentCompany
+    url: https://www.hanwha.com/
+x-acquisition:
+  acquirer: Hanwha Group (Hanwha Systems + Hanwha Ocean)
+  amount_usd: 100000000
+  announced: '2024-06-20'
+  closed: '2024-12'
+  rebrand: Hanwha Philly Shipyard, Inc. (HPSI)
+  source: https://en.wikipedia.org/wiki/Philly_Shipyard
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
